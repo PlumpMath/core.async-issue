@@ -1,5 +1,5 @@
 (defproject core.async-issue "0.1.0-SNAPSHOT"
-  :description "Is there an issue in compiling cljs.core.async for NodeJS?"
+  :description "Is there an issue in compiling cljs.core.async for Node.js?"
   :url "http://github.com/stepugnetti/core.async-issue"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}

@@ -1,6 +1,6 @@
 # core.async-issue
 
-Some simple code to demonstrate a problem compiling projects using ```cljs.core.async``` timeouts targeting NodeJS.
+Some simple code to demonstrate a problem compiling projects using ```cljs.core.async``` timeouts targeting Node.js.
 
 ## Usage
 
